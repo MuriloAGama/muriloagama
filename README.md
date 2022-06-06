@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi Darlings!👋
+
+I'am Graduated in systems analysis and development, almost 1 year of experience with Business Intelligence that opened my analytical vision, which I added with studies that generated significant gains for the company in terms of productivity and absenteeism. I love challenges, things that take me out of my comfort zone, and I strongly believe in the importance of contributing to the creation of solutions to problems and needs, transforming, optimizing and innovating processes and and I have skills such as: proactivity, focus, teamwork, communication, entrepreneurial vision, among others.
 
 <div align="center">
   <a href="https://github.com/MuriloAGama">
