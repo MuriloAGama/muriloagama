@@ -1,6 +1,18 @@
 Hi Darlings!👋
 
-I'am Graduated in systems analysis and development, almost 1 year of experience with Business Intelligence that opened my analytical vision, which I added with studies that generated significant gains for the company in terms of productivity and absenteeism. I love challenges, things that take me out of my comfort zone, and I strongly believe in the importance of contributing to the creation of solutions to problems and needs, transforming, optimizing and innovating processes and and I have skills such as: proactivity, focus, teamwork, communication, entrepreneurial vision, among others.
+🧧 I'am Graduated in systems analysis and development.
+
+💻 Developer with nearly 2 years of experience, primarily focused on .NET applications.
+During this time, I worked as a Full Stack developer, building web solutions and using Vue.js on the front end to create modern and responsive interfaces.
+
+🗄️ Worked with SQL Server for data modeling, queries, and data manipulation, ensuring performance and integrity in applications.
+Used Entity Framework as the main tool for more efficient interaction with the database.
+
+🐇 Gained some experience with RabbitMQ for messaging, acquiring basic knowledge of how it works and its role in asynchronous communication.
+
+📊 Also have experience in Business Intelligence, performing data extraction, transformation, and analysis to support decision-making processes with a focus on efficiency and clarity.
+
+Always seeking continuous learning and aiming to contribute to projects that make a real impact. 🚀
 
 <div align="center">
   <a href="https://github.com/MuriloAGama">
