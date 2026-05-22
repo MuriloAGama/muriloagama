@@ -51,7 +51,7 @@ Graduado em **Análise e Desenvolvimento de Sistemas (ADS)** e certificado pelo 
 
 ---
 
-### 🕹️ Git Status Snake
+### 📊 Meu Ritmo de Código
 <div align="center">
-  <img src="https://platane.github.io/snk/output/github-contribution-grid-snake.svg?username=MuriloAGama" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloAGama&theme=github-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" />
 </div>
