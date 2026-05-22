@@ -1,44 +1,57 @@
-Hi Darlings!👋
+# Olá, sou o Murilo Gama 👋
 
-🧧 I'am Graduated in systems analysis and development.
+Desenvolvedor Full Stack Júnior com quase 2 anos de experiência prática, focado principalmente no ecossistema **.NET** e no desenvolvimento de soluções robustas, scaláveis e de alta demanda. 
 
-💻 Developer with nearly 2 years of experience, primarily focused on .NET applications.
-During this time, I worked as a Full Stack developer, building web solutions and using Vue.js on the front end to create modern and responsive interfaces.
+Graduado em **Análise e Desenvolvimento de Sistemas (ADS)** e certificado pelo bootcamp da **Generation Brasil**, onde consolidei minha base Full Stack. Tenho experiência prática tanto na evolução de sistemas corporativos complexos quanto no desenvolvimento de soluções críticas para o setor público.
 
-🗄️ Worked with SQL Server for data modeling, queries, and data manipulation, ensuring performance and integrity in applications.
-Used Entity Framework as the main tool for more efficient interaction with the database.
+---
 
-🐇 Gained some experience with RabbitMQ for messaging, acquiring basic knowledge of how it works and its role in asynchronous communication.
+### 🛠️ Tecnologias & Ferramentas
 
-📊 Also have experience in Business Intelligence, performing data extraction, transformation, and analysis to support decision-making processes with a focus on efficiency and clarity.
+**Backend & Banco de Dados**
+<div>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</div>
 
-Always seeking continuous learning and aiming to contribute to projects that make a real impact. 🚀
+<br/>
+
+**Frontend & Design**
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+---
+
+### 📈 Minha Bagagem & Experiência
+
+- **Desenvolvimento de Alta Demanda:** Atuação direta na manutenção, evolução e arquitetura de sistemas robustos, aplicando boas práticas de modelagem de dados e otimização de consultas (SQL Server).
+- **Setor Público & Corporativo:** Experiência no desenvolvimento de soluções críticas com foco em governança, integridade de dados e regras de negócio complexas.
+- **Ecossistema .NET & Banco de Dados:** Experiência prática utilizando Entity Framework Core, LINQ, APIs RESTful estruturadas em camadas e manipulação de dados com SQL Server.
+- **Business Intelligence (BI):** Experiência na extração, manipulação e análise de dados para geração de relatórios estratégicos e estudos de apoio à tomada de decisão.
+- **Arquitetura Distribuída (Conceitual):** Conhecimento teórico nos conceitos de mensageria assíncrona e arquiteturas orientadas a eventos (utilizando RabbitMQ).
+- **Evolução Contínua:** Atualmente focado em fortalecer ainda mais os fundamentos de engenharia de software (SOLID, Clean Code), testes unitários e arquitetura moderna de APIs.
+
+---
+
+### 🌐 Vamos nos conectar?
 
 <div align="center">
-  <a href="https://github.com/MuriloAGama">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MuriloAGama&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloAGama&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://www.linkedin.com/in/muriloagama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:murilogama.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://discord.gg/Murilo Gama#5505" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="https://instagram.com/murilo.agama" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Murilo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Murilo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
-  <img align="center" alt="Murilo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="Murilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Murilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Murilo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Murilo-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/10a24508e1277fb09cfc9e0e89c54c4a.gif">
-</div>
-  
-  ##
-  
-<div>
-    <a href="https://instagram.com/murilo.agama" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Murilo Gama#5505" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:murilogama.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/muriloagama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
 
-  ![Snake animation](https://github.com/MuriloAGama/MuriloAGama/blob/output/github-contribution-grid-snake.svg)
+### 🕹️ Git Status Snake
+<div align="center">
+  <img src="https://github.com/MuriloAGama/MuriloAGama/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
