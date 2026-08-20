@@ -16,7 +16,7 @@ Formado em Análise e Desenvolvimento de Sistemas (ADS), atuo construindo e mant
 
 ---
 
-### 🚀 O que tenho feito no dia a dia
+### 🚀 Tenho feito no dia a dia
 - 💻 Desenvolvimento full-stack de novas funcionalidades e manutenção de sistemas corporativos.
 - ⚙️ Modelagem e otimização de consultas em bancos relacionais com EF Core.
 - ⚡ Integração de ferramentas de IA no workflow de desenvolvimento para otimização de DTOs, refatoração e ganho de eficiência.
